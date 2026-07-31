@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+.Toastify__toast--success {
+    background-color: #E3F2FD !important;
+    color: #111827 !important;
+    border: 1px solid #A6D6F3 !important;
+    border-radius: 1rem !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05) !important;
+}
+
+.Toastify__toast-icon--success svg {
+    fill: #111827 !important;
+}
+
+.Toastify__progress-bar--success {
+    background-color: #8abde0 !important;
+}
+
+
+.Toastify__toast {
+    min-height: 50px !important;
+    width: 280px !important;       
+    margin-left: auto !important;  
+    margin-bottom: 1rem !important;
+    padding: 12px 16px !important;
+    font-size: 0.875rem !important; 
+    font-weight: 600 !important;
+}

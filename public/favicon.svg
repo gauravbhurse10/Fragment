@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Soft Sky Blue Background matching the new gradient -->
+  <rect width="512" height="512" rx="140" fill="#A6D6F3" />
+  
+  <!-- Shadow for depth -->
+  <rect x="170" y="170" width="220" height="220" rx="40" fill="#8abde0" transform="rotate(12 280 280)" />
+  
+  <!-- Background Pastel Yellow Note -->
+  <rect x="160" y="140" width="220" height="220" rx="40" fill="#fef08a" transform="rotate(12 270 250)" />
+  
+  <!-- Foreground Crisp White Note / Fragment -->
+  <rect x="130" y="150" width="220" height="220" rx="40" fill="#ffffff" />
+  
+  <!-- The bold, rounded letter 'F' -->
+  <!-- Stem -->
+  <rect x="195" y="195" width="28" height="120" rx="10" fill="#111827" />
+  <!-- Top Bar -->
+  <rect x="195" y="195" width="85" height="28" rx="10" fill="#111827" />
+  <!-- Middle Bar -->
+  <rect x="195" y="245" width="65" height="28" rx="10" fill="#111827" />
+</svg>
